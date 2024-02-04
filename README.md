@@ -9,7 +9,6 @@
 📚 I'm also a [CCNA](https://www.credly.com/badges/27a4fd61-c3ac-496b-94e6-84c1a4a020a8/public_url) and [PCAP](https://www.credly.com/badges/ede9243e-8731-4511-9aa4-87fdf0fc0802/public_url) certified associate, which has given me a solid foundation in networking and Python.<br>
 🐈 When not coding, I’m surrounded by my 8 adorable cats – they're my fuzzy stress-busters!<br>
 📫 Feel free to reach out to discuss technology, share learning resources, or just chat about cats!
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="27a4fd61-c3ac-496b-94e6-84c1a4a020a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jafeth-garro-rold%C3%A1n-8ab499171/) 
