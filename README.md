@@ -4,7 +4,7 @@
 <!-- ![Profile Banner]() -->
 
 ## 💫 About Me:
-👨‍💻 I’m Jafeth, a dedicated student and aspiring software developer, currently deep-diving into the world of Django with my project, [Eventix](https://github.com/IAmJafeth/Eventix). I love tackling complex problems and turning ideas into reality through code.<br>
+👨‍💻 I’m Jafeth, a dedicated student and aspiring software developer. I love tackling complex problems and turning ideas into reality through code.<br>
 🎓 Studying Software Development Engineering at Fidélitas University. My coursework includes Advanced Programming, Database Management, and Web Development.<br>
 📚 I'm also a [CCNA](https://www.credly.com/badges/27a4fd61-c3ac-496b-94e6-84c1a4a020a8/public_url) and [PCAP](https://www.credly.com/badges/ede9243e-8731-4511-9aa4-87fdf0fc0802/public_url) certified associate, which has given me a solid foundation in networking and Python.<br>
 🐈 When not coding, I’m surrounded by my 8 adorable cats – they're my fuzzy stress-busters!<br>
