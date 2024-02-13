@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jafeth Garro</h1>
 <h3 align="center">A Passionate Software Development Engineering Student</h3>
 
-<!-- ![Profile Banner](https://yourbannerimageurl.com/banner.jpg) -->
+<!-- ![Profile Banner]() -->
 
 ## 💫 About Me:
 👨‍💻 I’m Jafeth, a dedicated student and aspiring software developer, currently deep-diving into the world of Django with my project, [Eventix](https://github.com/IAmJafeth/Eventix). I love tackling complex problems and turning ideas into reality through code.<br>
@@ -30,8 +30,8 @@ I'm expanding my skills in the following areas:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📚 Key Projects:
-1. **Eventix (Django-based Event Reservation Software)** - [GitHub Repo](https://github.com/IAmJafeth/Eventix)
+<!-- ## 📚 Key Projects: -->
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IAmJafeth&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
