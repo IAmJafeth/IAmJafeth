@@ -37,9 +37,9 @@ I'm expanding my skills in the following areas:
 [![LeetCode user IAmJafeth](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FIAmJafeth&logo=leetcode&logoColor=yellow)](https://leetcode.com/IAmJafeth/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IAmJafeth&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IAmJafeth&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmJafeth&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IAmJafeth&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IAmJafeth&theme=radical&hide_border=false&theme=catppuccin_mocha)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmJafeth&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
 ## 💰 Support My Work:
 Your support through donations helps me continue my education and work on exciting projects! [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Jafeth636)
