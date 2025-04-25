@@ -15,8 +15,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jafeth636) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jafeth636) 
 
+<!--
 ## 📝 My Blog:
 I regularly update my [blog](https://iamjafeth.com) where I share my university notes and document my journey to transitioning to a 100% Linux environment. You can explore my in-depth course notes, Linux guides, and much more!
+-->
 
 ## 🛠️ My Tech Toolbox:
 **Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)<br>
